@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @oJoaoSantos.
-- 👀 I’m interested in Web Development and OOP.
-- 🌱 I’m currently training DB, OOP, Back and Frontend with Primavera Academy.
+ 👋 Hi, I’m @oJoaoSantos.
+ 🌱 I’m currently training DB, OOP, Back and Frontend with Primavera Academy.
 
 
 <!---
