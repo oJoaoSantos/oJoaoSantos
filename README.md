@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oJoaoSantos
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Satack Development
+- 👋 Hi, I’m @oJoaoSantos.
+- 👀 I’m interested in Web Development and OOP.
+- 🌱 I’m currently training DB, OOP, Back and Frontend with Primavera Academy.
 
 
 <!---
