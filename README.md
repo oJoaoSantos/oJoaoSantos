@@ -1,5 +1,5 @@
  👋 Hi, I’m @oJoaoSantos.
- 🌱 I’m currently training DB, OOP, Back and Frontend with Primavera Academy.
+ 🌱 Started intensive training in November that lasted until the end of july 2023 and here I am! Ready to embrace the first project in the field of programming..
 
 
 <!---
