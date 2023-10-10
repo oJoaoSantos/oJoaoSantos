@@ -1,5 +1,5 @@
  👋 Hi, I’m @oJoaoSantos.
- 🌱 Started intensive training in November that lasted until the end of july 2023 and here I am! Ready to embrace the first project in the field of programming..
+ 🌱 Started intensive training in November that lasted until the end of july 2023 and here I am! Ready to embrace the first professional project in the field of programming..
 
 
 <!---
